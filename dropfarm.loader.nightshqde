@@ -7,4 +7,4 @@
         \/  /_____/      \/          \/     \/    |__|    \/    \/ 
 ]]--
 
-loadstring(game:HttpGet("https://cdn.discordapp.com/attachments/1171876922574254180/1179680454589284372/77_JME8ZOPA.lua"))()
+loadstring(game:HttpGet("https://cdn.discordapp.com/attachments/1167250916123082752/1179875967808843786/dropfarm.loader.nightshqde"))()
